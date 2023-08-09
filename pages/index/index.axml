@@ -1,0 +1,4 @@
+<view>
+  this is a blank page
+  <button onTap="goToHome" size="default" type="primary">Button</button>
+</view>
